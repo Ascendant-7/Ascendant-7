@@ -1,16 +1,18 @@
-## Hi there 👋
+## Ascendant-7
 
-<!--
-**Ascendant-7/Ascendant-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student. This profile is a dedicated space for my personal development projects, system configurations, and technical experiments.
 
-Here are some ideas to get you started:
+### 💻 Tech & Tools
+* **Backend & Databases:** NestJS, PostgreSQL, Supabase, TypeScript
+* **Frontend:** Vue.js
+* **DevOps & Systems:** Linux (Xubuntu), Docker, Jenkins, Ansible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Current Focus
+* Building full-stack monorepo applications.
+* Managing database migrations, local syncing, and type generation.
+* Configuring containerized development and deployment workflows.
+* Studying core system architecture and manual network configurations.
+
+---
+
+> I prefer handling manual system plumbing and foundational setup directly to understand how the components interact under the hood.
