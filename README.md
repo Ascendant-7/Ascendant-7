@@ -1,18 +1,15 @@
-## Ascendant-7
+## Oh? visitors! 👀
 
-I am a Computer Science student. This profile is a dedicated space for my personal development projects, system configurations, and technical experiments.
+Hey, welcome! I didn't expect visitors! 😄
 
-### 💻 Tech & Tools
-* **Backend & Databases:** NestJS, PostgreSQL, Supabase, TypeScript
-* **Frontend:** Vue.js
-* **DevOps & Systems:** Linux (Xubuntu), Docker, Jenkins, Ansible
+I'm **Ang Panha**, or just **Panha**; I don't mind you mispronouncing it. 👍
 
-### 🛠️ Current Focus
-* Building full-stack monorepo applications.
-* Managing database migrations, local syncing, and type generation.
-* Configuring containerized development and deployment workflows.
-* Studying core system architecture and manual network configurations.
+Here is where I dump all my projects. Most are sitting and gathering dust to be honest. 😅
 
----
+## Something about me
 
-> I prefer handling manual system plumbing and foundational setup directly to understand how the components interact under the hood.
+I come from Siem Reap, Cambodia; Kingdom of Wonder! and where we keep our most valuable treasure! ✨
+
+Currently, I'm studying for my degree in Information and Communication Engineering. It's gonna be a long 5 years! 🤓
+
+## === WORK IN PROGRESS (COMING SOON!) ===
